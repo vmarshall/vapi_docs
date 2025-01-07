@@ -1,3 +1,9 @@
 **/.definition
 **/.preview/**
+node_modules
+**/.DS_Store
+**/.idea/
+**/.vscode/
+**/fern/.DS_Store
+**/fern/customization/.DS_Store
 .DS_Store
